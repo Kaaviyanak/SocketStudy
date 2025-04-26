@@ -1,7 +1,6 @@
 # Ex.No:1a  
 Study of Socket Programming
-# NAME: S.Aishwariya
-# Reg no: 212224240005
+
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
